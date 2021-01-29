@@ -1,0 +1,13 @@
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\bin\Debug\netcoreapp3.1\Projeto-Cadastro.exe
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\bin\Debug\netcoreapp3.1\Projeto-Cadastro.deps.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\bin\Debug\netcoreapp3.1\Projeto-Cadastro.runtimeconfig.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\bin\Debug\netcoreapp3.1\Projeto-Cadastro.runtimeconfig.dev.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\bin\Debug\netcoreapp3.1\Projeto-Cadastro.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\bin\Debug\netcoreapp3.1\Projeto-Cadastro.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.csprojAssemblyReference.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.AssemblyInfoInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.AssemblyInfo.cs
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Projeto-Cadastro\obj\Debug\netcoreapp3.1\Projeto-Cadastro.genruntimeconfig.cache
